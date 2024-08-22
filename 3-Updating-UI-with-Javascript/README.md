@@ -1,0 +1,3 @@
+# Updating UI with JavaScript
+
+Chapter 3 walks through how to use JavaScript and DOM methods to update the user interface dynamically. By creating a simple HTML file, adding an h1 tag programmatically, and manipulating the DOM using JavaScript, you learn the basics of imperative programming. This approach involves giving explicit instructions on how the UI should be updated. However, as applications grow, this method becomes cumbersome. The chapter introduces the concept of declarative programming, where you describe the desired outcome instead of the steps, leading into how React simplifies UI development by handling DOM updates for you.

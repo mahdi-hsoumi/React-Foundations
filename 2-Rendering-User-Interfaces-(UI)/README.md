@@ -1,0 +1,3 @@
+# Rendering User Interfaces (UI)
+
+Chapter 2 explains how browsers render user interfaces by first interpreting HTML to create the Document Object Model (DOM), a tree-like structure representing HTML elements. The DOM serves as a bridge between your code and the UI, enabling manipulation of elements using JavaScript and DOM methods. This foundational knowledge is crucial for understanding how React creates dynamic and interactive user interfaces.
